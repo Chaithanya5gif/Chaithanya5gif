@@ -87,16 +87,20 @@
 </table>
 </p>
 
-
-
-
-
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Chaithanya&theme=dark&hide_border=true" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chaithanya5gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaithanya5gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaithanya5gif&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
----
+📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaithanya5gif&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+💬 Got an idea? Want to collaborate? I'm always down to build.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
